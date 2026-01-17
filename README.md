@@ -1,30 +1,35 @@
-# WW3
-A 2D aircraft shooter game with attractive UI.
+# ✈️ WW3
 
-## Made by
- - Md. Jahangir Alam Rocky ( https://github.com/jahangir1x )
- - Md. Sourav ( https://github.com/MdSourav76046 )
- - Fouzia Zilani ( https://github.com/fouzia1146 )
+**WW3** is a fast-paced 2D aircraft shooter game featuring an attractive user interface, engaging gameplay, and a story-driven experience.
 
-## The Story
+## 👨‍💻 Developers
 
-The year is 2050. The relationship between Russia and the USA starts to worsen day by day. One day the USA declares war against Russia. Now, Yuri a Russian air force captain, needs to fight with his MIG29 jet to save his country and the ones he loves.
+- **Md. Jahangir Alam Rocky** — https://github.com/jahangir1x  
+- **Md. Sourav** — https://github.com/MdSourav76046  
+- **Fouzia Zilani** — https://github.com/fouzia1146  
 
-## Features
+## 📖 Story
 
- - Variety of enemies.
- - Attractive UI and in-game cursor.
- - Brain teasing puzzles.
- - Heart touching quotes about war, life and persistence.
- - And many more.
-## Releases
+The year is **2050**. Tensions between Russia and the United States escalate rapidly, eventually erupting into war.  
+You play as **Yuri**, a Russian Air Force captain piloting a **MiG-29**, fighting to defend your homeland—and the people he loves.
 
-To play without building go to https://github.com/x00jahangir/WW3/releases. Download the ZIP, extract and run.
+## 🎮 Features
 
-## Build instructions
+- A wide variety of enemy types  
+- Attractive UI and custom in-game cursor  
+- Brain-teasing puzzles  
+- Emotional quotes about war, life, and persistence  
+- And much more to discover in-game  
 
-Open the project in CodeBlocks and build.
+## 📦 Play the Game
 
-## License
+Want to play without building from source?  
+Download the latest release from:  
+https://github.com/x00jahangir/WW3/releases  
 
-*waiting*
+Extract the ZIP file and run the executable.
+
+## 🛠️ Build Instructions
+
+1. Open the project in **Code::Blocks**  
+2. Build and run the project  
